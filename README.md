@@ -38,15 +38,14 @@ flutter run
 3. Login hanya simulasi, yg tersimpan sebagai teks biasa di kode. Sehingga tidak ada registrasi
 
 
-## Screenshot
- ## 📱 Tampilan Aplikasi
+## 📱 Tampilan Aplikasi
 
 Berikut adalah beberapa tangkapan layar dari aplikasi Tuan:
 
 ### 1. Beranda & Login
 <p align="center">
   <img src="./Assets/Screenshot/Tampilan Beranda.png" width="280" alt="Tampilan Beranda">
-  <img src="./Assets/Screenshot/Halaman login.png" width="280" alt="Halaman Login">
+  <img src="./Assets/Screenshot/Halaman login.png" width="280" alt="Tampilan Login">
 </p>
 
 ### 2. Fitur Pendukung (Profil & Chat)
