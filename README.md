@@ -41,30 +41,38 @@ flutter run
 ## 📱 Tampilan Aplikasi
 
 
-
+### 1. Beranda & Login
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee8acef4-cfc2-4eae-bac4-f92d1c2608f6" width="280" alt="Halaman Login">
 </p>
 
 
-Berikut adalah beberapa tangkapan layar dari aplikasi Tuan:
-
-### 1. Beranda & Login
 <p align="center">
-  <img src="./Assets/Screenshot/Tampilan Beranda.png" width="280" alt="Tampilan Beranda">
-  <img src="./Assets/Screenshot/Halaman login.png" width="280" alt="Tampilan Login">
+  <img src="https://github.com/user-attachments/assets/01e7b8f7-3fc9-44c8-a25d-5fa752e05554" width="280" alt="Tampilan Beranda">
 </p>
 
+
+
+
 ### 2. Fitur Pendukung (Profil & Chat)
+
 <p align="center">
-  <img src="./Assets/Screenshot/Tampilan Profil.png" width="280" alt="Tampilan Profil">
-  <img src="./Assets/Screenshot/Tampilan chat.png" width="280" alt="Tampilan Chat">
+  <img src="https://github.com/user-attachments/assets/d12e5e7f-0f17-4790-9ff9-01c268b87171" width="280" alt="Tampilan Profil">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cb238da-863b-4c5b-9d3d-fdfab03a6b0f" width="280" alt="Tampilan Chat">
 </p>
 
 ### 3. Katalog & Favorit
+
 <p align="center">
-  <img src="./Assets/Screenshot/Tampilan Barang yang Dijual.png" width="280" alt="Tampilan Barang Dijual">
-  <img src="./Assets/Screenshot/Tampilan Halaman Favorit.png" width="280" alt="Tampilan Halaman Favorit">
+  <img src="https://github.com/user-attachments/assets/f58b1c2d-6ab0-4f13-a629-6b6428e51238" width="280" alt="Tampilan Barang yang Dijual">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11649cdf-fc99-479c-bc87-33b04e8d72d1" width="280" alt="Tampilan Halaman Favorit">
 </p>
 
