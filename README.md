@@ -39,5 +39,25 @@ flutter run
 
 
 ## Screenshot
-   <img width="664" height="1346" alt="iPhone-13-PRO-localhost (4)" src="https://github.com/user-attachments/assets/4a91ac78-1dd6-4fca-85b6-ed8967673374" />
+ ## 📱 Tampilan Aplikasi
+
+Berikut adalah beberapa tangkapan layar dari aplikasi Tuan:
+
+### 1. Beranda & Login
+<p align="center">
+  <img src="./Assets/Screenshot/Tampilan Beranda.png" width="280" alt="Tampilan Beranda">
+  <img src="./Assets/Screenshot/Halaman login.png" width="280" alt="Halaman Login">
+</p>
+
+### 2. Fitur Pendukung (Profil & Chat)
+<p align="center">
+  <img src="./Assets/Screenshot/Tampilan Profil.png" width="280" alt="Tampilan Profil">
+  <img src="./Assets/Screenshot/Tampilan chat.png" width="280" alt="Tampilan Chat">
+</p>
+
+### 3. Katalog & Favorit
+<p align="center">
+  <img src="./Assets/Screenshot/Tampilan Barang yang Dijual.png" width="280" alt="Tampilan Barang Dijual">
+  <img src="./Assets/Screenshot/Tampilan Halaman Favorit.png" width="280" alt="Tampilan Halaman Favorit">
+</p>
 
