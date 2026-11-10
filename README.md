@@ -6,9 +6,7 @@ Tanpa Firebase, backend, atau internet. Data disimpan lokal dengan `shared_prefe
 ## Cara menjalankan
 
 ```bash
-flutter create campus_mart
-cd campus_mart
-# Ganti folder lib/ dan file pubspec.yaml dengan isi proyek ini, lalu:
+
 flutter pub get
 flutter run
 ```
@@ -19,8 +17,8 @@ flutter run
 
 | Username | Password |
 |---|---|
-| penjual | jual123 |
-| pembeli | beli123 |
+| demo1 | butuhkopi |
+| demo2 | naspadseporsi |
 
 ## Skenario uji
 
