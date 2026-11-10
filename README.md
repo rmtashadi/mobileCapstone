@@ -36,4 +36,8 @@ flutter run
 1. Data hanya tersimpan di satu perangkat dan tidak tersinkron antar perangkat.
 2. Tidak ada pembayaran
 3. Login hanya simulasi, yg tersimpan sebagai teks biasa di kode. Sehingga tidak ada registrasi
-   
+
+
+## Screenshot
+   <img width="664" height="1346" alt="iPhone-13-PRO-localhost (4)" src="https://github.com/user-attachments/assets/4a91ac78-1dd6-4fca-85b6-ed8967673374" />
+
