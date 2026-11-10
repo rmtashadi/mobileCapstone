@@ -40,6 +40,14 @@ flutter run
 
 ## 📱 Tampilan Aplikasi
 
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee8acef4-cfc2-4eae-bac4-f92d1c2608f6" width="280" alt="Halaman Login">
+</p>
+
+
 Berikut adalah beberapa tangkapan layar dari aplikasi Tuan:
 
 ### 1. Beranda & Login
